@@ -1,8 +1,7 @@
 # Java_Graph_Node
  Create a directed graph whose directions are constructed from ‘source’ to ‘destination’ with the given ‘edge-weight’ value.
  
- Program asks the user for a source and a destination name. Code will run to find maximum number of packages can be transferred from source to destination branches
-provided by the user.
+Program asks the user for a source and a destination name. Code will run to find maximum number of packages can be transferred from source to destination branches provided by the user.
 
 Main Tasks:
 
